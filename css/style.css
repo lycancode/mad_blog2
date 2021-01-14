@@ -40,6 +40,7 @@ img {
   position: fixed;
   top: 0px;
   padding: 0 30px;
+  transition: 0.5s;
 }
 .navbar.top {
   background: transparent;
@@ -96,7 +97,7 @@ img {
 }
 .hero.blog {
   background: url('../img/home/blog.jpg') no-repeat center center/cover;
-  height: 40vh;
+  height: 30vh;
 }
 /* ICONS*/
 .icons {
